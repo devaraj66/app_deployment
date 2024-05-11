@@ -2,7 +2,7 @@ streamlit
 pip
 tensorflow
 keras
-image
+Image
 patchify
 scikit-learn
 numpy
