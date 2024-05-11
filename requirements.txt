@@ -1,5 +1,6 @@
 streamlit
 pip
 tensorflow
+keras
 scikit-learn
 numpy
