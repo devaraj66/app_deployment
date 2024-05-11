@@ -2,6 +2,7 @@ streamlit
 pip
 tensorflow
 keras
+pil
 patchify
 scikit-learn
 numpy
